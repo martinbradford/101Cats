@@ -8,3 +8,5 @@ When I've worked out how to configure it, this repository will be published in a
 
 The installation image for the latest version of the application can be obtained via the following link https://github.com/martinbradford/101Cats/blob/main/setup(1.0.9.0).zip
 
+https://github.com/martinbradford/101Cats/blob/2a08b9beaa13696e8cbdfadc7335b42a7ad238e5/setup(1.0.9.0).zip
+
