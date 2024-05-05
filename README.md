@@ -5,3 +5,6 @@ No source code is included here. The source code is stored in a private GitHub r
 Please note that this software is distributed free of charge and with absolutely no guarantee at all. I developed it for my own use and there are a number of active users. I do try to fix bugs though I accept no commitment to do so. If you find a bug or have a suggestion for an improvement, please raise an issue or start a discussion thread. 
 
 When I've worked out how to configure it, this repository will be published in a controlled manner as "www.101cats.co.uk"
+
+The installation image for the latest version of the application can be obtained via the following link https://github.com/martinbradford/101Cats/blob/main/setup(1.0.9.0).zip
+
