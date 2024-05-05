@@ -8,3 +8,5 @@ When I've worked out how to configure it, this repository will be published in a
 
 The installation image for the latest version of the application can be obtained via the following link https://github.com/martinbradford/101Cats/raw/main/setup(1.0.9.0).zip
 
+A [link](https://github.com/martinbradford/101Cats/raw/main/setup(1.0.9.0).zip).
+
