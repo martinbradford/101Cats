@@ -6,7 +6,5 @@ Please note that this software is distributed free of charge and with absolutely
 
 When I've worked out how to configure it, this repository will be published in a controlled manner as "www.101cats.co.uk"
 
-The installation image for the latest version of the application can be obtained via the following link https://github.com/martinbradford/101Cats/raw/main/setup(1.0.9.0).zip
-
-A [link](https://github.com/martinbradford/101Cats/raw/main/setup(1.0.9.0).zip).
+The installation image for the latest version of the application can be obtained via the following [link](https://github.com/martinbradford/101Cats/raw/main/setup(1.0.9.0).zip).
 
