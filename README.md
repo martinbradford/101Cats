@@ -9,3 +9,8 @@ When I've worked out how to configure it, this repository will be published in a
 The installation image for the latest version of the application can be obtained via the following [link](https://github.com/martinbradford/101Cats/raw/main/setup1.0.9.2.zip).
 
 A Wiki is slowly under construction - follow this [link](https://github.com/martinbradford/101Cats/wiki) for access. At the moment, edit access to the wiki is limited to registered collaborators - if you are willing and able to contribute, ping me a message to ask to be added to the collaborators list.  Use this [link](mailto:one.oh.onecats@outlook.com) to address me.
+
+## Configuration
+
+101Cats will need to be configured to match your setup. There are a lot of configuration options and, if you are running several external applications or using additional hardware, the configuration can be quite complex. The configuration is stored in an XML file in your AppData directory. 101Cats includes a dialogue box that allows you to configure the more common options, but it is also sometimes necessary to edit the file directly. There are some (slightly) more detailed instructions in the Wiki...
+
