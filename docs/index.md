@@ -18,4 +18,4 @@ Version 1.0.9.7 fixes several bugs and introduces some new features:
 
 A Wiki is slowly under construction - follow this [link](https://github.com/martinbradford/101Cats/wiki) for access. At the moment, edit access to the wiki is limited to registered collaborators - if you are willing and able to contribute, ping me a message to ask to be added to the collaborators list.  Use this [link](mailto:one.oh.onecats@outlook.com) to address me.
 
-**Click [here](https://github.com/martinbradford/101Cats/blob/main/docs/Diversity%20Reception%20with%20an%20RSPDuo%20and%20FTdx101D.pdf) for my notes on configuring diversity reception with an FTdx101 and an SDRPlay RSPDuo.**
+**Click [here](https://www.101cats.co.uk/Diversity%20Reception%20with%20an%20RSPDuo%20and%20FTdx101D.pdf) for my notes on configuring diversity reception with an FTdx101 and an SDRPlay RSPDuo.**
