@@ -6,7 +6,7 @@ No source code is included here. The source code is stored in a private GitHub r
 
 **101Cats** is a CAT control program written specifically for the Yaesu FTdx101 series of radios. These are complex radios with many functions and controls. The author had been a long-time user of other CAT programs including HRD and Win4Yaesu - both very competent pieces of software - but when I upgraded to the FTdx101D, I came to the conclusion that there was no generic CAT application that could really do it justice, so I started to write my own. That has developed into 101Cats.
 
-Please note that this software is distributed free of charge and with absolutely no guarantee at all. I developed it for my own use and there are a number of active users. I do try to fix bugs though I accept no commitment to do so. If you find a bug or have a suggestion for an improvement, please raise an issue or start a discussion thread. 
+Please note that this software is distributed free of charge and with absolutely no guarantee at all. I developed it for my own use and there are a number of active users. I do try to fix bugs though I accept no commitment to do so. If you find a bug or have a suggestion for an improvement, please raise an [issue](https://github.com/martinbradford/101Cats/issues) or start a [discussion thread](https://github.com/martinbradford/101Cats/discussions). 
 
 The installation image for the latest version (1.0.9.7) of the application can be obtained via the following [link](https://github.com/martinbradford/101Cats/raw/main/setup(1.0.9.7).zip) .
 
