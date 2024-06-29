@@ -16,6 +16,9 @@ Version 1.0.9.7 fixes several bugs and introduces some new features:
 - The configuration dialogue box has been tidied up. The number of controls had grown beyond what could reasonably be displayed on a single screen, so it has now been converted into a tabbed format. New tabs will be added over time to cover further configuration options.
 - The Modulation Sources dialogue box is now fully live. It is opened with the "Modulation Sources" button in the lower pane.
 
+**Coming Next**
+I still have several additional featured planned as a result of suggestions and requests from users. The DXCluster window will be a focus in the coming days - it is useful, but quite limited at the moment. Remembering the antenna selection by band is also on the plan. Another focus is going to be integration with the Elgato Stream Deck. These devices have interested me for a while, but I've been too mean to buy one... Elgato are running a promotion right now and I was able to get a top-of-the-range Stream Deck XL at £40 off, so I gave it a try - and it is very impresive. I've started getting it set up to simplify the operation of the shack. I still have a long way to go, but the exercise has highlighted several enhancements to 101Cats that will make it a lot easier.
+
 A Wiki is slowly under construction - follow this [link](https://github.com/martinbradford/101Cats/wiki) for access. At the moment, edit access to the wiki is limited to registered collaborators - if you are willing and able to contribute, ping me a message to ask to be added to the collaborators list.  Use this [link](mailto:one.oh.onecats@outlook.com) to address me.
 
 **Click [here](https://www.101cats.co.uk/Diversity%20Reception%20with%20an%20RSPDuo%20and%20FTdx101D.pdf) for my notes on configuring diversity reception with an FTdx101 and an SDRPlay RSPDuo.**
