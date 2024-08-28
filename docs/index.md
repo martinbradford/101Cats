@@ -23,6 +23,7 @@ A Wiki is slowly under construction - follow this [link](https://github.com/mart
 
 **Click [here](https://www.101cats.co.uk/Diversity%20Reception%20with%20an%20RSPDuo%20and%20FTdx101D.pdf) for my notes on configuring diversity reception with an FTdx101 and an SDRPlay RSPDuo.**
 
-**991Cats**
+# 991Cats
+
 There is a very early version of 991Cats [here](https://github.com/martinbradford/FT991Cats/releases/download/V0.0.0.0/991CatsSetup1.zip) - it is still very rough, but you are welcome to experiment if you are brave enough!
 
