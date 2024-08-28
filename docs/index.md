@@ -22,3 +22,7 @@ I still have several additional featured planned as a result of suggestions and 
 A Wiki is slowly under construction - follow this [link](https://github.com/martinbradford/101Cats/wiki) for access. At the moment, edit access to the wiki is limited to registered collaborators - if you are willing and able to contribute, ping me a message to ask to be added to the collaborators list.  Use this [link](mailto:one.oh.onecats@outlook.com) to address me.
 
 **Click [here](https://www.101cats.co.uk/Diversity%20Reception%20with%20an%20RSPDuo%20and%20FTdx101D.pdf) for my notes on configuring diversity reception with an FTdx101 and an SDRPlay RSPDuo.**
+
+**991Cats**
+There is a very early version of 991Cats [here](https://github.com/martinbradford/FT991Cats/releases/download/V0.0.0.0/991CatsSetup1.zip) - it is still very rough, but you are welcome to experiment if you are brave enough!
+
