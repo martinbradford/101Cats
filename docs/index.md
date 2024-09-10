@@ -8,6 +8,9 @@ No source code is included here. The source code is stored in a private GitHub r
 
 Please note that this software is distributed free of charge and with absolutely no guarantee at all. I developed it for my own use and there are a number of active users. I do try to fix bugs though I accept no commitment to do so. If you find a bug or have a suggestion for an improvement, please raise an [issue](https://github.com/martinbradford/101Cats/issues) or start a [discussion thread](https://github.com/martinbradford/101Cats/discussions). 
 
+**While I don't ask for any payment, assistance will be very welcome! The most obvious way you can help is to contribute to the doumentation... 101Cats has become a large and complex application and a detailed instruction manual will be a significant task. If you are using it and have gained experience in configuring or operating it, please consider contributing towards the Wiki! At the moment, it is not publically editable because I want to retain some degree of control over it but if you feel able to contribute to it, please ping me a message [at this link](mailto:one.oh.onecats@outlook.com) and I'll add you to the collaborators list. Help with the coding would also be welcome - though, obviously, that requires some fairly advanced programming skills.**
+
+
 The installation image for the latest version (1.0.9.7) of the application can be obtained via the following [link](https://github.com/martinbradford/101Cats/raw/main/setup(1.0.9.7).zip) .
 
 Version 1.0.9.7 fixes several bugs and introduces some new features:
