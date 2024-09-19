@@ -14,13 +14,15 @@ Please note that this software is distributed free of charge and with absolutely
 **While I don't ask for any payment, assistance will be very welcome! The most obvious way you can help is to contribute to the doumentation... 101Cats has become a large and complex application and a detailed instruction manual will be a significant task. If you are using it and have gained experience in configuring or operating it, please consider contributing towards the Wiki! At the moment, it is not publically editable because I want to retain some degree of control over it but if you feel able to contribute to it, please ping me a message [at this link](mailto:one.oh.onecats@outlook.com) and I'll add you to the collaborators list. Help with the coding would also be welcome - though, obviously, that requires some fairly advanced programming skills.**
 
 
-The installation image for the latest version (1.0.9.7) of the application can be obtained via the following [link](https://github.com/martinbradford/101Cats/blob/main/setup1.0.9.9.zip) .
+The installation image for the latest version (1.0.9.9) of the application can be obtained via the following [link](https://github.com/martinbradford/101Cats/blob/main/setup1.0.9.9.zip) .
 
-Version 1.0.9.7 fixes several bugs and introduces some new features:
+Version 1.0.9.9 fixes several bugs and introduces some new features:
 
 - Frequencies can be entered through the keyboard. If the Keypad dialogue is displayed, then pressing any numeric key, the period key, the backspace key or the enter key has the same effect as clicking the corresponding button. If the Keypad dialogue box is not open, then pressing any numeric key while the main window has focus will open the Keypad dialogue box and enter the corresponding digit.
 - The configuration dialogue box has been tidied up. The number of controls had grown beyond what could reasonably be displayed on a single screen, so it has now been converted into a tabbed format. New tabs will be added over time to cover further configuration options.
 - The Modulation Sources dialogue box is now fully live. It is opened with the "Modulation Sources" button in the lower pane.
+
+**In an effort to be a bit more professional, I'm trying to keep some release notes running - [check here for them](https://github.com/martinbradford/101Cats/blob/main/docs/ReleaseNotes.md)
 
 **Coming Next**
 I still have several additional featured planned as a result of suggestions and requests from users. The DXCluster window will be a focus in the coming days - it is useful, but quite limited at the moment. Remembering the antenna selection by band is also on the plan. Another focus is going to be integration with the Elgato Stream Deck. These devices have interested me for a while, but I've been too mean to buy one... Elgato are running a promotion right now and I was able to get a top-of-the-range Stream Deck XL at £40 off, so I gave it a try - and it is very impresive. I've started getting it set up to simplify the operation of the shack. I still have a long way to go, but the exercise has highlighted several enhancements to 101Cats that will make it a lot easier.
