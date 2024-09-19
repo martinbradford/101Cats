@@ -29,7 +29,9 @@ I still have several additional featured planned as a result of suggestions and 
 
 **Click [here](https://www.101cats.co.uk/Diversity%20Reception%20with%20an%20RSPDuo%20and%20FTdx101D.pdf) for my notes on configuring diversity reception with an FTdx101 and an SDRPlay RSPDuo.**
 
-# 991Cats
+# 991Cats and other radios
 
 There is a very early version of 991Cats [here](https://github.com/martinbradford/FT991Cats/releases/download/V0.0.0.0/991CatsSetup1.zip) - it is still very rough, but you are welcome to experiment if you are brave enough!
+
+Several people have asked if 101Cats will support other (Yaesu) radios. The answer is a highly qualified yes... The Yaesu CAT command set has stayed broadly the same for many years - they just add more commands as the radios become more complex. The FTdx101 series are currently the most complex Yaesu production models and 101Cats is designed to drive them fully. If you point 101Cats at an FTdx10, an FT-710 (or, even, an FT-991A), then it will attempt to control them. It will succeed for those functions that the target radio shares with the FTdx101D and should not actually error for the rest. As I said above, the source code is available subject to a few simple conditions and I would love to see other versions developed. If you have an FTdx10 or FT-710 and enough experience with C# and Visual Studio, please contact me on the link above and I'll assist you in the development of a targeted version.
 
