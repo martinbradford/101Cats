@@ -19,3 +19,10 @@ and observe the commands sent to the radio in the right hand list box.
 The "Save" button lower-left on the Macros window writes the current macro definitions to an XML file called "Macros.xml" - this will be in the directory "G8FXC\101Cats" within your Documents directory.
 
 This is an early release of macros and will be enhanced in the future - feel free to ping me suggestions by email.
+
+# V1.0.9.10
+- bugfix of 1.0.9.9 - removed XSD validation because I got the XSD file wrong
+
+# v1.0.9.11
+- further bugfix - bandplan configuration working properly
+
