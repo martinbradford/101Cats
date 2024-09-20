@@ -13,11 +13,9 @@ Please note that this software is distributed free of charge and with absolutely
 
 **While I don't ask for any payment, assistance will be very welcome! The most obvious way you can help is to contribute to the doumentation... 101Cats has become a large and complex application and a detailed instruction manual will be a significant task. If you are using it and have gained experience in configuring or operating it, please consider contributing towards the Wiki! At the moment, it is not publically editable because I want to retain some degree of control over it but if you feel able to contribute to it, please ping me a message [at this link](mailto:one.oh.onecats@outlook.com) and I'll add you to the collaborators list. Help with the coding would also be welcome - though, obviously, that requires some fairly advanced programming skills.**
 
-# Hold Off!!! My latest update seems to have done some serious damage to some installations! I am investigating and will issue a fix later today...
+The installation image for the latest version (1.0.9.11) of the application can be obtained via the following [link](https://github.com/martinbradford/101Cats/raw/refs/heads/main/setup%201.0.9.11.zip). Earlier releases can be downloaded directly from GitHub [here](https://github.com/martinbradford/101Cats).
 
-The installation image for the latest version (1.0.9.10) of the application can be obtained via the following [link](https://github.com/martinbradford/101Cats/raw/refs/heads/main/setup%201.0.9.10.zip). Earlier releases can be downloaded directly from GitHub [here](https://github.com/martinbradford/101Cats).
-
-Version 1.0.9.10 fixes a bug in the XSD validation of the config file
+Version 1.0.9.11 fixes a bug in the XSD validation of the config file
 
 Version 1.0.9.9 fixes several bugs and introduces some new features:
 
