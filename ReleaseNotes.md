@@ -22,4 +22,7 @@ This is an early release of macros and will be enhanced in the future - feel fre
 
 # V1.0.9.10
 - bugfix of 1.0.9.9 - removed XSD validation because I got the XSD file wrong
-- 
+
+# v1.0.9.11
+- further bugfix - bandplan configuration working properly
+
