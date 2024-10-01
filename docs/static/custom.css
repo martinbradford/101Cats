@@ -1,0 +1,21 @@
+/* set the main background for the light theme to pink */
+:root {
+    --wh-color-bg-main: rgb(255, 255, 227);
+}
+
+/* make the border for images transparent with a 30px radius */
+.article__img {
+    border-radius: 10px !important;
+    border: none;
+}
+
+.title__content {
+    font-family: "Comic Sans MS";
+    font-weight: lighter;
+}
+
+.article__p {
+    font-family: "Times New Roman";
+    font-weight: normal;
+    font-size: 20px;
+}
